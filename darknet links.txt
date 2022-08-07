@@ -25,9 +25,8 @@ tor66 - http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/
 
 
 
-n.kids - http://243vnzoix3ct6vowjgakv3pdqrzkfnkoz5plwgta3ar2onqobzhz5jid.onion/
-
-cp forum - http://alice34mdngm7dhzx34dglpactwrppd6cskewvi7ny2ktn7x7tf77qid.onion/links/
+ - http://243vnzoix3ct6vowjgakv3pdqrzkfnkoz5plwgta3ar2onqobzhz5jid.onion/
+- http://alice34mdngm7dhzx34dglpactwrppd6cskewvi7ny2ktn7x7tf77qid.onion/links/
 
 http://bestteermb42clir6ux7xm76d4jjodh3fpahjqgbddbmfrgp4skg2wqd.onion
 
@@ -50,7 +49,4 @@ darkforest - http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.oni
 
 cracking island - cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion
 
- hosting - http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/
-user-realzed
-pass- Ff25252525@
-
+ 
